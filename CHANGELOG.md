@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.0.20
+
+- Accept lowercase for CA
+
 ## 0.0.19
 
 - Fixes JP and IE formats, thanks to ~ @timokleemann

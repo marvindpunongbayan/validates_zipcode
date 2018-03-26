@@ -10,7 +10,7 @@ Adds zipcode / postal code validation support to Rails (ActiveModel), considerin
 
 Add this line to your application's Gemfile:
 
-    gem 'validates_zipcode'
+    gem 'validates_zipcode', :git => "git@github.com:marvindpunongbayan/validates_zipcode.git"
 
 And then execute:
 
