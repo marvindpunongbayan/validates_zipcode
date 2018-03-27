@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.0.21
+
+- Allow case-insensitive to all zipcodes
+
 ## 0.0.20
 
 - Accept lowercase for CA
